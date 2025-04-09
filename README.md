@@ -3,7 +3,7 @@
 
 <!--Github image-->
 <div>
-  <img align="right" width="25%" src="./github-coding.png">
+  <img align="right" width="20%" src="./github-coding.png">
 </div>
 
 <!--Header Name-->
@@ -37,8 +37,8 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">💻 Tech Stack</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif" style="width:40%">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif" style="width:40%">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif" style="width:40%">
 </picture>
 <br />
