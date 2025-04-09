@@ -44,45 +44,45 @@
 <br />
 
 #### 🧑‍💻 Languages  
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="16">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="16">
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="14" style="display:inline-block;">
 
 #### 🛠️ Backend Frameworks & Libraries  
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/Spring_Security-68BC71?style=flat&logo=springsecurity&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/Spring_Quartz-6DB33F?style=flat&logo=spring&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/QueryDSL-6C48FF?style=flat" height="16">
-<img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=mybatis&logoColor=white" height="16">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/Spring_Security-68BC71?style=flat&logo=springsecurity&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/Spring_Quartz-6DB33F?style=flat&logo=spring&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/QueryDSL-6C48FF?style=flat" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=mybatis&logoColor=white" height="14" style="display:inline-block;">
 
 #### 🎨 Frontend  
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="16">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="14" style="display:inline-block;">
 
 #### 🗄️ Database  
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" height="16">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" height="14" style="display:inline-block;">
 
 #### ☁️ Infrastructure & DevOps  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="16">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="16">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="14" style="display:inline-block;">
 
 #### 🧰 Tools  
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/WebStorm-008CDA?style=flat&logo=webstorm&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="16">
-<img src="https://img.shields.io/badge/MobaXterm-2CA5E0?style=flat" height="16">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/WebStorm-008CDA?style=flat&logo=webstorm&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="14" style="display:inline-block;">
+<img src="https://img.shields.io/badge/MobaXterm-2CA5E0?style=flat" height="14" style="display:inline-block;">
 
 #### 🔬 Data & Workflow  
-<img src="https://img.shields.io/badge/KNIME-FFB200?style=flat&logo=knime&logoColor=black" height="16">
+<img src="https://img.shields.io/badge/KNIME-FFB200?style=flat&logo=knime&logoColor=black" height="14" style="display:inline-block;">
 
 
 
