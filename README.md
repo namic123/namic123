@@ -39,10 +39,8 @@
 <picture style="width:40%">
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif" style="width:40%">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif" style="width:40%">
-  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif" style="visibility:visible;max-width:100%;">
+  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif" style="visibility:visible;max-width:60%;">
 </picture>
-<br />
-
 #### 🧑‍💻 Languages  
 <span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="18" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="18" style="display:inline-block;"></span>
@@ -82,9 +80,7 @@
 
 
 <br />
-<br />
-<br />
-<br />
+
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
