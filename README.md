@@ -120,8 +120,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/namic123/Spring-basic">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=namic123&repo=Spring-basic&theme=nightowl&show_owner=true&bg_color=0,000000,0033A0&title_color=c56a90&text_color=ffffff" alt="Spring-basic" />
+        <a href="https://github.com/namic123/Study-Backend">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=namic123&repo=Study-Backend&theme=nightowl&show_owner=true&bg_color=0,000000,0033A0&title_color=c56a90&text_color=ffffff" alt="Study-Backend" />
         </a>
       </p>
     </td>
