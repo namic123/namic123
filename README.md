@@ -39,7 +39,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif" style="width:40%">
 </picture>
 <br />
 
@@ -49,7 +49,7 @@
 <span><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" height="14" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="14" style="display:inline-block;"></span>
 
-#### 🛠️ Backend Frameworks & Libraries  
+#### 🛠️ Frameworks & Libraries  
 <span><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" height="14" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/Spring_Security-68BC71?style=flat&logo=springsecurity&logoColor=white" height="14" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/Spring_Quartz-6DB33F?style=flat&logo=spring&logoColor=white" height="14" style="display:inline-block;"></span>
@@ -57,10 +57,6 @@
 <span><img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white" height="14" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/QueryDSL-6C48FF?style=flat" height="14" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=mybatis&logoColor=white" height="14" style="display:inline-block;"></span>
-
-#### 🎨 Frontend  
-<span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" height="14" style="display:inline-block;"></span>
-<span><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="14" style="display:inline-block;"></span>
 
 #### 🗄️ Database  
 <span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="14" style="display:inline-block;"></span>
