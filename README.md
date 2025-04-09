@@ -39,7 +39,7 @@
 <picture style="width:40%">
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif" style="width:40%">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif" style="width:40%">
-  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif" style="visibility:visible;max-width:20%; margin-top:30px">
+  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif" style="visibility:visible; max-width:40% !important;  margin-top:30px">
 </picture>
 <br/>
 
@@ -143,7 +143,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=namic123&bg_color=0033A0&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=namic123&bg_color=002d87&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
