@@ -23,7 +23,7 @@
 - 🌱 Currently learning and growing every day, because every day is a chance to become better.
 - 🛠 Tech I love working with: <code>Java</code>, <code>Spring Boot</code>, <code>Vue.js</code>, <code>React.js</code>,<code>PostgreSQL</code>,<code>MariaDB</code>, <code>Docker</code>, <code>Kubernetes</code>
 - 🧑‍💻 Check out my work on GitHub: [namic123](https://github.com/namic123)
-- ✍️ I also write about my journey, insights, and technical deep-dives on my blog: [Jay Park's Devlog]()
+- ✍️ I also write about my journey, insights, and technical deep-dives on my blog: [Jay Park's Devlog](https://pjs-world.tistory.com/)
 - ✨ Always open to collaboration and new opportunities!<!--End Intro-->
 
 <!--Profile Count Badge-->
