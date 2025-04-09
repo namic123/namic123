@@ -42,7 +42,10 @@
   <img align="right" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 <br/>
-
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 60%;">
+      
 #### 🧑‍💻 Languages  
 <span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="18" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="18" style="display:inline-block;"></span>
@@ -80,6 +83,12 @@
 <span><img src="https://img.shields.io/badge/MobaXterm-2CA5E0?style=flat" height="18" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/KNIME-FFB200?style=flat&logo=knime&logoColor=black" height="18" style="display:inline-block;"></span>
 
+    </td>
+    <td style="text-align: right; width: 40%;">
+      <img src="./Skills_Animation_White.gif" alt="GIF description" style="max-width: 100%; margin-top: 20px;">
+    </td>
+  </tr>
+</table>
 
 <br />
 
