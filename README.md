@@ -3,7 +3,7 @@
 
 <!--Github image-->
 <div>
-  <img align="right" style="margin-top:20px" width="30%" src="./github-coding.png">
+  <img align="right" style="margin-top:50px !important" width="30%" src="./github-coding.png">
 </div>
 
 <!--Header Name-->
