@@ -36,9 +36,11 @@
 
 <!--Languages and Tools Section-->       
 <h2 align="center">💻 Tech Stack</h2> 
-<div style="float: right; max-width: 40%; margin-top: 30px;">
-  <img src="./Skills_Animation_White.gif" alt="GIF description" style="width: 100%;">
-</div>
+<picture style="max-width:40% !important;">
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif" style="max-width:40% !important; margin-top:30px;">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif" style="max-width:40% !important; margin-top:30px;">
+  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
 <br/>
 
 #### 🧑‍💻 Languages  
