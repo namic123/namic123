@@ -32,20 +32,15 @@
 </p>
 
 ---
-
-
 <!--Languages and Tools Section-->       
 <h2 align="center">💻 Tech Stack</h2> 
 <picture style="max-width:40% !important;">
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif" style="max-width:40% !important; margin-top:30px;">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif" style="max-width:40% !important; margin-top:30px;">
-  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif" width="40%" style="max-width:40% !important; margin-top:30px;">
 </picture>
 <br/>
-<table>
-  <tr>
-    <td style="vertical-align: top; width: 60%;">
-      
+
 #### 🧑‍💻 Languages  
 <span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="18" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="18" style="display:inline-block;"></span>
@@ -82,13 +77,6 @@
 <span><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="18" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/MobaXterm-2CA5E0?style=flat" height="18" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/KNIME-FFB200?style=flat&logo=knime&logoColor=black" height="18" style="display:inline-block;"></span>
-
-    </td>
-    <td style="text-align: right; width: 40%;">
-      <img src="./Skills_Animation_White.gif" alt="GIF description" style="max-width: 100%; margin-top: 20px;">
-    </td>
-  </tr>
-</table>
 
 <br />
 
