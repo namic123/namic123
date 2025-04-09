@@ -39,7 +39,7 @@
 <picture style="width:40%">
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif" style="width:40%">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif" style="width:40%">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif" style="width:40%">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif" style="visibility:visible;max-width:100%;">
 </picture>
 <br />
 
