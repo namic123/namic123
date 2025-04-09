@@ -50,6 +50,8 @@
 <span><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="14" style="display:inline-block;"></span>
 
 #### 🛠️ Frameworks & Libraries  
+<span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" height="14" style="display:inline-block;"></span>
+<span><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="14" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" height="14" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/Spring_Security-68BC71?style=flat&logo=springsecurity&logoColor=white" height="14" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/Spring_Quartz-6DB33F?style=flat&logo=spring&logoColor=white" height="14" style="display:inline-block;"></span>
@@ -76,9 +78,8 @@
 <span><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="14" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="14" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/MobaXterm-2CA5E0?style=flat" height="14" style="display:inline-block;"></span>
-
-#### 🔬 Data & Workflow  
 <span><img src="https://img.shields.io/badge/KNIME-FFB200?style=flat&logo=knime&logoColor=black" height="14" style="display:inline-block;"></span>
+
 
 <br />
 <br />
