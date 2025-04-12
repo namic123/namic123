@@ -34,7 +34,7 @@
 
 ---
 <!--Languages and Tools Section-->       
-<h2 align="center">💻 Tech Stack</h2> 
+<h2 align="center">💻 Tech Stack 💻</h2> 
 <picture style="max-width:40% !important;">
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif" style="max-width:40% !important; margin-top:30px;">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif" style="max-width:40% !important; margin-top:30px;">
@@ -141,7 +141,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=namic123&bg_color=001A52&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=namic123&theme=github-compact&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
