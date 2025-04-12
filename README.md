@@ -141,7 +141,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=namic123&bg_color=0c00ba&line=000000&point=ffffff&area=false&hide_border=false" border-radius="15">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=namic123&bg_color=00275D&line=000000&point=ffffff&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
