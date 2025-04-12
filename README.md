@@ -104,7 +104,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/namic123">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=namic123&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,0033A0&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=namic123&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,0033A0&title_color=8d94c7&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -112,7 +112,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/namic123">
-          <img align="center" src="https://streak-stats.demolab.com?user=namic123&theme=nightowl&background=0,000000,0033A0&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=namic123&theme=nightowl&background=0,000000,0033A0&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=8d94c7&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -122,7 +122,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/namic123/Study-Backend">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=namic123&repo=Study-Backend&theme=nightowl&show_owner=true&bg_color=0,000000,0033A0&title_color=c56a90&text_color=ffffff" alt="Study-Backend" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=namic123&repo=Study-Backend&theme=nightowl&show_owner=true&bg_color=0,000000,0033A0&title_color=8d94c7&text_color=ffffff" alt="Study-Backend" />
         </a>
       </p>
     </td>
