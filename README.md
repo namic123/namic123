@@ -68,6 +68,7 @@
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="18" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="18" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" height="18" style="display:inline-block;"></span>
+<span><img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" height="18" style="display:inline-block;"></span>
 
 
 #### 🧰 Tools  
