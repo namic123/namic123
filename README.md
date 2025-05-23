@@ -46,7 +46,6 @@
 <span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="18" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="18" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" height="18" style="display:inline-block;"></span>
-<span><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="18" style="display:inline-block;"></span>
 
 #### 🛠️ Frameworks & Libraries  
 <span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" height="18" style="display:inline-block;"></span>
@@ -58,6 +57,8 @@
 <span><img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white" height="18" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/QueryDSL-6C48FF?style=flat" height="18" style="display:inline-block;"></span>
 <span><img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=mybatis&logoColor=white" height="18" style="display:inline-block;"></span>
+<span><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="18" style="display:inline-block;"></span>
+
 
 #### 🗄️ Database  
 <span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="18" style="display:inline-block;"></span>
