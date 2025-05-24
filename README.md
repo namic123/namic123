@@ -82,10 +82,13 @@
 <span><img src="https://img.shields.io/badge/WebStorm-008CDA?style=flat&logo=webstorm&logoColor=white" height="18"></span>
 <span><img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white" height="18"></span>
 <span><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="18"></span>
+<span><img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" height="18"></span>
+<span><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" height="18"></span>
 <span><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="18"></span>
 <span><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="18"></span>
 <span><img src="https://img.shields.io/badge/MobaXterm-2CA5E0?style=flat" height="18"></span>
 <span><img src="https://img.shields.io/badge/KNIME-FFB200?style=flat&logo=knime&logoColor=black" height="18"></span>
+
 
 <br />
 
