@@ -7,7 +7,7 @@
   <img align="right" style="margin-top:50px !important" width="30%" src="./github-coding.png">
 </div>
 
-<!--Header Name-->
+<!-- Header Name -->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi I'm Jay! 
 *Full-Stack Developer / Programmer*
 <br /> 
