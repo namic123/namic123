@@ -26,10 +26,12 @@
 - ✍️ I also write about my journey, insights, and technical deep-dives on my blog: [Jay Park's Devlog](https://pjs-world.tistory.com/)
 - ✨ Always open to collaboration and new opportunities!<!--End Intro-->
 
+
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=namic123&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="namic123" style="padding-right:10px;" />
 </p>
+
 
 ---
 <!--Languages and Tools Section-->       
