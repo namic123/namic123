@@ -1,18 +1,15 @@
 <!--Banner-->
 ![Jay Park Banner Image](./banner.png)
 
-
 <!--Github image-->
 <div>
   <img align="right" style="margin-top:50px !important" width="30%" src="./github-coding.png">
 </div>
 
-
 <!-- Header Name -->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi I'm Jay! 
 *Full-Stack Developer / Programmer*
 <br /> 
-
 
 <!--Start Intro-->               
 <p align="left">
@@ -27,7 +24,6 @@
 - 🧑‍💻 Check out my work on GitHub: [namic123](https://github.com/namic123)
 - ✍️ I also write about my journey, insights, and technical deep-dives on my blog: [Jay Park's Devlog](https://pjs-world.tistory.com/)
 - ✨ Always open to collaboration and new opportunities!<!--End Intro-->
-
 
 <!--Profile Count Badge-->
 <p align="left">
