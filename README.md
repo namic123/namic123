@@ -88,9 +88,7 @@
 <span><img src="https://img.shields.io/badge/MobaXterm-2CA5E0?style=flat" height="18"></span>
 <span><img src="https://img.shields.io/badge/KNIME-FFB200?style=flat&logo=knime&logoColor=black" height="18"></span>
 
-
 <br />
-
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
