@@ -17,6 +17,7 @@
   Hi, I'm <strong>Jay Park</strong> 👋<br>
   A passionate <strong>Full Stack Developer</strong> who finds joy in exploring technology and tackling new challenges.
 </p>
+
 - 🔍 Curiosity about technology drives my love for coding.
 - 🚀 I’m inspired by the process of finding creative solutions and pushing the boundaries of my skills.
 - 🤝 I believe collaboration is the key to growth — sharing ideas leads to better outcomes.
