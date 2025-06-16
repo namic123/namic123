@@ -11,6 +11,7 @@
 *Full-Stack Developer / Programmer*
 <br /> 
 
+
 <!--Start Intro-->               
 <p align="left">
   Hi, I'm <strong>Jay Park</strong> 👋<br>
@@ -24,6 +25,7 @@
 - 🧑‍💻 Check out my work on GitHub: [namic123](https://github.com/namic123)
 - ✍️ I also write about my journey, insights, and technical deep-dives on my blog: [Jay Park's Devlog](https://pjs-world.tistory.com/)
 - ✨ Always open to collaboration and new opportunities!<!--End Intro-->
+
 
 <!--Profile Count Badge-->
 <p align="left">
