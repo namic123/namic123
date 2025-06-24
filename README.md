@@ -33,7 +33,6 @@
   <img src="https://komarev.com/ghpvc/?username=namic123&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="namic123" style="padding-right:10px;" />
 </p>
 
-
 ---
 <!--Languages and Tools Section--> 
 <h2 align="center">💻 Tech Stack 💻</h2> 
@@ -97,7 +96,6 @@
 <span><img src="https://img.shields.io/badge/KNIME-FFB200?style=flat&logo=knime&logoColor=black" height="18"></span>
 
 <br />
-
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
@@ -110,6 +108,7 @@
   </a>
 </p>
 <br />
+
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
